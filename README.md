@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gastón Romero</h1>
-<h1 align="center">University Technical Diploma in Programming | Full Stack Web Developer | Student</h1>
+<h2 align="center">University Technical Diploma in Programming | Full Stack Web Developer | Student</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastonromero&label=Profile%20views&color=0e75b6&style=flat" alt="gastonromero" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gastón-romero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gastón-romero/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gastón-romero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gast%C3%B3n-romero//" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
